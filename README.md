@@ -1,7 +1,7 @@
 # 🖥️ Lite Page
 A lite personal page template.
 
-[Demo]([https://yzcf.top](https://lite-pages.vercel.app/))
+[Demo][https://yzcf.top](https://lite-pages.vercel.app/)
 
 
 ## Use
